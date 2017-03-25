@@ -1,0 +1,23 @@
+{
+  "name": "twitter-app-devry-course",
+  "version": "1.0.0",
+  "description": "Aplicação que simula integração com Twitter para fins academicos",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EltonAugusto/nodejs-architecture.git"
+  },
+  "author": "Elton Tamilheiro | Hélio Nogueira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EltonAugusto/nodejs-architecture/issues"
+  },
+  "homepage": "https://github.com/EltonAugusto/nodejs-architecture#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "twitter": "^1.7.0"
+  }
+}
